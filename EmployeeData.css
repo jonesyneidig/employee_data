@@ -1,0 +1,28 @@
+.jumbotron {
+	background: #000080;
+	color: white;
+	text-align: center;
+}
+
+/*th {
+	padding-right: 15px;
+}*/
+
+table {
+	width: 100%;
+	margin: 15px;
+}
+
+thead {
+	border-bottom: 1px solid #808080;
+}
+
+form {
+	widows: 100%;
+	margin: 15px;
+}
+
+input {
+	width: 100%;
+}
+
